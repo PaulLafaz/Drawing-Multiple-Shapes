@@ -2,8 +2,8 @@
 
 This repository contains code I made whilst studying Object Oriented Programming(OOP) at Swinburne University.
 
-The program featured, is one of my first programs I've created at university that draws multiple shapes with a click of the mouse using a 
-Swinburne Library depending on which shape is selected. 
+The program featured, is one of the first I've created at university which allows users to draws multiple shapes 
+with a click of the mouse using a Swinburne Library depending on which shape is selected. 
 
 
 ### Interesting Facts
